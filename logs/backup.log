@@ -1,0 +1,36 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250109_120001-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-09 12:00:02.740467
+Config  : ./ivy.com/private/backups/20250109_120001-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250109_120001-ivy_com-database.sql.gz         351.2KiB
+Backup for Site ivy.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250110_120002-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-10 12:00:03.728228
+Config  : ./ivy.com/private/backups/20250110_120002-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250110_120002-ivy_com-database.sql.gz         377.4KiB
+Backup for Site ivy.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250113_120002-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-13 12:00:02.978259
+Config  : ./ivy.com/private/backups/20250113_120002-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250113_120002-ivy_com-database.sql.gz         397.2KiB
+Backup for Site ivy.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250116_180003-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-16 18:00:04.334336
+Config  : ./ivy.com/private/backups/20250116_180003-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250116_180003-ivy_com-database.sql.gz         375.0KiB
+Backup for Site ivy.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250118_120003-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-18 12:00:03.999099
+Config  : ./ivy.com/private/backups/20250118_120003-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250118_120003-ivy_com-database.sql.gz         375.0KiB
+Backup for Site ivy.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_cbb70034e6e2ca31 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _cbb70034e6e2ca31 | /usr/bin/gzip >> ./ivy.com/private/backups/20250118_180001-ivy_com-database.sql.gz
+
+Backup Summary for ivy.com at 2025-01-18 18:00:02.651137
+Config  : ./ivy.com/private/backups/20250118_180001-ivy_com-site_config_backup.json 116.0B
+Database: ./ivy.com/private/backups/20250118_180001-ivy_com-database.sql.gz         383.3KiB
+Backup for Site ivy.com has been successfully completed

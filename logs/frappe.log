@@ -1,0 +1,719 @@
+2025-01-08 14:53:20,511 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-09 11:56:47,226 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 12:20:47,407 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 12:25:18,305 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 12:49:07,871 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:07:45,718 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:11:48,593 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:12:16,873 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:12:18,704 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:12:20,359 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:12:21,601 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 13:12:23,244 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 14:12:07,910 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:31:03,806 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:42:38,551 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:54:21,281 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:54:25,637 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:54:28,367 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:54:30,040 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 15:55:37,217 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 16:00:17,587 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 16:01:29,908 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 16:01:36,981 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 16:01:44,374 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-09 16:22:24,236 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-10 08:49:34,393 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-10 08:49:49,404 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-10 08:51:49,298 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-10 08:52:22,582 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-10 08:52:42,070 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00001', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-13 10:25:21,826 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Tickets', 'with_parent': '1', 'cached_timestamp': '2025-01-13 09:52:12.820566', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2025-01-13 10:25:59,066 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Tickets', 'with_parent': '1', 'cached_timestamp': '2025-01-13 09:52:12.820566', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2025-01-13 10:52:26,108 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-14 09:43:13,943 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-14 09:48:05,235 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 11:23:14,346 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 2666150758062039527
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:23:14,349 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 2666150758062039527
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:25:19,612 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: -6461995611255603660
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:25:19,616 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: -6461995611255603660
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:27:37,870 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 2845142557177529738
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:27:37,873 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 2845142557177529738
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:35:11,311 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 3155843892377349079
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 11:35:11,315 ERROR frappe Unable to load translations
+Site: 
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/synchronization.py", line 40, in filelock
+    with _StrongFileLock(lock_path, timeout=timeout):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 314, in __enter__
+    self.acquire()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/filelock/_api.py", line 279, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+filelock._error.Timeout: The file lock '/home/ivy/frappe-bench/config/bench_build.lock' could not be acquired.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 57, in wrapper
+    return frappe.local.request_cache[func][args_key]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 3155843892377349079
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 174, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 237, in hget
+    value = generator()
+            ^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 162, in _merge_translations
+    all_translations.update(get_translations_from_apps(lang))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/translate.py", line 191, in get_translations_from_apps
+    for app in apps or frappe.get_installed_apps(_ensure_on_bench=True):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/caching.py", line 59, in wrapper
+    return_val = func(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 1531, in get_installed_apps
+    connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/__init__.py", line 275, in connect
+    assert db_name or local.conf.db_name, "site must be fully initialized, db_name missing"
+AssertionError: site must be fully initialized, db_name missing
+2025-01-15 12:22:15,613 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 12:22:20,024 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 13:18:12,181 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 13:18:12,270 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 13:18:20,664 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 13:18:20,758 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 13:30:51,109 ERROR frappe Error while inserting deferred Error Log record: Error Log rc8qvg0vl5: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 13:30:51,113 ERROR frappe Error while inserting deferred Error Log record: Error Log v0j4mi90hl: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 13:30:51,115 ERROR frappe Error while inserting deferred Error Log record: Error Log 77qu7puhm3: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 13:30:51,118 ERROR frappe Error while inserting deferred Error Log record: Error Log fucg0bispt: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 14:32:41,537 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 14:32:41,631 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 14:45:06,794 ERROR frappe Error while inserting deferred Error Log record: Error Log rng49in1be: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 14:45:06,801 ERROR frappe Error while inserting deferred Error Log record: Error Log kfujdrou9d: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:00:31,469 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 15:00:31,517 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 15:15:10,948 ERROR frappe Error while inserting deferred Error Log record: Error Log 0jans5c93a: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:15:10,951 ERROR frappe Error while inserting deferred Error Log record: Error Log irpbr9k1u7: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:23:42,922 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 15:23:42,924 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 15:30:04,455 ERROR frappe Error while inserting deferred Error Log record: Error Log a4m85hh30r: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:30:04,462 ERROR frappe Error while inserting deferred Error Log record: Error Log 1vf2mbd4h3: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:32:26,974 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:32:29,798 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-15 15:32:29,854 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-15 15:32:41,336 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:32:45,544 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:32:51,411 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:39:02,480 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:41:25,197 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:42:13,248 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:45:05,311 ERROR frappe Error while inserting deferred Error Log record: Error Log cj6dgsgd5a: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:45:05,314 ERROR frappe Error while inserting deferred Error Log record: Error Log futk5b3lk0: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-15 15:50:54,843 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:51:02,306 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-15 15:59:25,619 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 16:43:39,301 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 16:43:39,301 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-18 16:43:53,814 ERROR frappe Error while inserting deferred Error Log record: Error Log ejekjr0ljh: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-18 16:43:53,817 ERROR frappe Error while inserting deferred Error Log record: Error Log 69odsthk0d: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-18 16:48:45,064 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 16:48:45,064 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-18 16:52:12,732 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 16:52:12,733 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'cmd': 'crm.api.doc.get_filterable_fields'}
+2025-01-18 17:00:11,497 ERROR frappe Error while inserting deferred Error Log record: Error Log nh5mf637th: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-18 17:00:11,499 ERROR frappe Error while inserting deferred Error Log record: Error Log 70tmimspub: 'Title' (Module import failed for FCRM Tickets, the DocType you're trying to open might be deleted.
+Error: No module named 'frappe.core.doctype.fcrm_tickets') will get truncated, as max characters allowed is 140
+Site: ivy.com
+Form Dict: {}
+2025-01-18 17:12:19,596 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 19:58:56,436 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 19:59:05,635 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 19:59:15,211 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:09:17,696 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:09:29,349 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-18 20:10:33,998 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:12:29,165 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:12:29,171 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:14:33,835 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:16:14,192 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:17:02,774 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:28:49,507 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:28:50,773 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:29:26,142 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:29:27,704 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:29:56,839 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:30:55,867 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:31:28,948 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:36:57,935 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:01,266 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:10,318 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:11,593 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:13,065 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:19,544 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:20,778 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:24,618 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:37:34,003 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:41:02,921 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:41:10,980 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:51:59,854 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:52:01,165 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:52:29,667 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 20:58:28,153 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 21:10:06,477 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-18 21:12:36,010 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
