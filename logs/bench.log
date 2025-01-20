@@ -360,3 +360,56 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2025-01-18 21:09:52,293 INFO /usr/local/bin/bench worker
 2025-01-18 21:09:52,319 INFO /usr/local/bin/bench schedule
 2025-01-18 21:09:52,361 INFO /usr/local/bin/bench watch
+2025-01-19 11:27:43,700 INFO /usr/local/bin/bench build
+2025-01-19 11:30:05,421 INFO /usr/local/bin/bench start
+2025-01-19 11:30:05,848 INFO /usr/local/bin/bench schedule
+2025-01-19 11:30:05,850 INFO /usr/local/bin/bench serve --port 8000
+2025-01-19 11:30:05,868 INFO /usr/local/bin/bench worker
+2025-01-19 11:30:05,948 INFO /usr/local/bin/bench watch
+2025-01-19 12:00:01,977 INFO /usr/local/bin/bench --verbose --site all backup
+2025-01-19 13:29:44,418 INFO /usr/local/bin/bench build
+2025-01-19 14:06:48,447 INFO /usr/local/bin/bench build
+2025-01-19 15:18:19,616 INFO /usr/local/bin/bench start
+2025-01-19 15:18:19,972 INFO /usr/local/bin/bench serve --port 8000
+2025-01-19 15:18:19,992 INFO /usr/local/bin/bench schedule
+2025-01-19 15:18:20,027 INFO /usr/local/bin/bench worker
+2025-01-19 15:18:20,028 INFO /usr/local/bin/bench watch
+2025-01-19 15:42:26,788 INFO /usr/local/bin/bench get-app https://github.com/frappe/helpdesk.git
+2025-01-19 15:42:26,799 LOG Getting helpdesk
+2025-01-19 15:42:26,799 DEBUG cd ./apps && git clone https://github.com/frappe/helpdesk.git  --depth 1 --origin upstream
+2025-01-19 15:42:34,790 LOG Installing helpdesk
+2025-01-19 15:42:34,790 DEBUG cd /home/ivy/frappe-bench && /home/ivy/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ivy/frappe-bench/apps/helpdesk 
+2025-01-19 15:42:38,748 DEBUG cd /home/ivy/frappe-bench/apps/helpdesk && yarn install --check-files
+2025-01-19 15:43:02,910 DEBUG bench build --app helpdesk
+2025-01-19 15:43:03,184 INFO /usr/local/bin/bench build --app helpdesk
+2025-01-19 15:43:34,686 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-01-19 15:44:20,192 INFO /usr/local/bin/bench --site ivy.com install-app helpdesk
+2025-01-19 15:50:53,822 INFO /usr/local/bin/bench start
+2025-01-19 15:50:54,189 INFO /usr/local/bin/bench serve --port 8000
+2025-01-19 15:50:54,196 INFO /usr/local/bin/bench schedule
+2025-01-19 15:50:54,218 INFO /usr/local/bin/bench watch
+2025-01-19 15:50:54,242 INFO /usr/local/bin/bench worker
+2025-01-19 15:51:02,200 INFO /usr/local/bin/bench build
+2025-01-19 15:55:17,435 INFO /usr/local/bin/bench build
+2025-01-19 16:07:22,957 INFO /usr/local/bin/bench start
+2025-01-19 16:07:23,333 INFO /usr/local/bin/bench worker
+2025-01-19 16:07:23,363 INFO /usr/local/bin/bench serve --port 8000
+2025-01-19 16:07:23,381 INFO /usr/local/bin/bench schedule
+2025-01-19 16:07:23,388 INFO /usr/local/bin/bench watch
+2025-01-19 16:36:38,052 INFO /usr/local/bin/bench build
+2025-01-19 16:39:52,230 INFO /usr/local/bin/bench build
+2025-01-19 16:47:56,441 INFO /usr/local/bin/bench build
+2025-01-19 16:52:30,129 INFO /usr/local/bin/bench build
+2025-01-19 18:39:36,556 INFO /usr/local/bin/bench build
+2025-01-19 18:41:39,054 INFO /usr/local/bin/bench start
+2025-01-19 18:41:39,408 INFO /usr/local/bin/bench serve --port 8000
+2025-01-19 18:41:39,415 INFO /usr/local/bin/bench schedule
+2025-01-19 18:41:39,434 INFO /usr/local/bin/bench worker
+2025-01-19 18:41:39,456 INFO /usr/local/bin/bench watch
+2025-01-20 08:53:45,551 INFO /usr/local/bin/bench build
+2025-01-20 09:38:43,364 INFO /usr/local/bin/bench build
+2025-01-20 09:40:37,348 INFO /usr/local/bin/bench start
+2025-01-20 09:40:37,705 INFO /usr/local/bin/bench worker
+2025-01-20 09:40:37,720 INFO /usr/local/bin/bench schedule
+2025-01-20 09:40:37,763 INFO /usr/local/bin/bench watch
+2025-01-20 09:40:37,773 INFO /usr/local/bin/bench serve --port 8000

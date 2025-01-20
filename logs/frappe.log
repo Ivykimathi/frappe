@@ -717,3 +717,21 @@ Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activi
 2025-01-18 21:12:36,010 ERROR frappe New Exception collected in error log
 Site: ivy.com
 Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-19 11:30:47,012 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'name': 'CRM-LEAD-2025-00002', 'cmd': 'crm.api.activities.get_activities'}
+2025-01-19 13:32:47,932 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-19 13:40:16,207 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-19 13:43:47,205 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'Contact', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-19 16:19:03,710 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}
+2025-01-19 16:19:43,071 ERROR frappe New Exception collected in error log
+Site: ivy.com
+Form Dict: {'doctype': 'FCRM Tickets', 'filters': {}, 'order_by': 'modified desc', 'default_filters': {}, 'view': {'custom_view_name': '', 'view_type': 'list', 'group_by_field': 'owner'}, 'column_field': 'status', 'title_field': '', 'kanban_columns': '', 'kanban_fields': '', 'columns': '', 'rows': '', 'cmd': 'crm.api.doc.get_data'}

@@ -115,3 +115,121 @@ Traceback (most recent call last):
   File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 809, in _write_bytes
     raise err.OperationalError(
 pymysql.err.OperationalError: (2006, "MySQL server has gone away (ConnectionResetError(104, 'Connection reset by peer'))")
+2025-01-20 09:00:35,131 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:12:34,003 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for ivy.com
+2025-01-20 09:12:34,114 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for ivy.com
+2025-01-20 09:12:34,118 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for ivy.com
+2025-01-20 09:12:34,121 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for ivy.com
+2025-01-20 09:12:34,124 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for ivy.com
+2025-01-20 09:12:34,126 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for ivy.com
+2025-01-20 09:12:34,131 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for ivy.com
+2025-01-20 09:12:34,158 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for ivy.com
+2025-01-20 09:12:34,162 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for ivy.com
+2025-01-20 09:12:34,166 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for ivy.com
+2025-01-20 09:12:34,170 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for ivy.com
+2025-01-20 09:12:34,174 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for ivy.com
+2025-01-20 09:12:34,178 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for ivy.com
+2025-01-20 09:12:34,182 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for ivy.com
+2025-01-20 09:12:34,186 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:14:07,162 ERROR scheduler Skipped queueing helpdesk.search.build_index_if_not_exists because it was found in queue for ivy.com
+2025-01-20 09:14:07,298 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for ivy.com
+2025-01-20 09:14:07,303 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for ivy.com
+2025-01-20 09:14:07,307 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for ivy.com
+2025-01-20 09:14:07,311 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for ivy.com
+2025-01-20 09:14:07,314 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for ivy.com
+2025-01-20 09:14:07,318 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for ivy.com
+2025-01-20 09:14:07,324 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:14:07,336 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for ivy.com
+2025-01-20 09:14:07,341 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for ivy.com
+2025-01-20 09:14:07,346 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for ivy.com
+2025-01-20 09:14:07,351 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for ivy.com
+2025-01-20 09:14:07,355 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for ivy.com
+2025-01-20 09:14:07,358 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for ivy.com
+2025-01-20 09:14:07,362 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for ivy.com
+2025-01-20 09:14:07,365 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:20:41,001 ERROR scheduler Skipped queueing helpdesk.search.build_index_if_not_exists because it was found in queue for ivy.com
+2025-01-20 09:20:41,273 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for ivy.com
+2025-01-20 09:20:41,282 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for ivy.com
+2025-01-20 09:20:41,286 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for ivy.com
+2025-01-20 09:20:41,289 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for ivy.com
+2025-01-20 09:20:41,296 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for ivy.com
+2025-01-20 09:20:41,301 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:20:41,311 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for ivy.com
+2025-01-20 09:20:41,316 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for ivy.com
+2025-01-20 09:20:41,319 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for ivy.com
+2025-01-20 09:20:41,323 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for ivy.com
+2025-01-20 09:20:41,327 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for ivy.com
+2025-01-20 09:20:41,331 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for ivy.com
+2025-01-20 09:20:41,335 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for ivy.com
+2025-01-20 09:20:41,339 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:21:43,532 ERROR scheduler Skipped queueing helpdesk.search.build_index_if_not_exists because it was found in queue for ivy.com
+2025-01-20 09:21:43,647 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for ivy.com
+2025-01-20 09:21:43,651 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:21:43,661 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for ivy.com
+2025-01-20 09:21:43,664 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for ivy.com
+2025-01-20 09:21:43,668 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for ivy.com
+2025-01-20 09:21:43,672 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for ivy.com
+2025-01-20 09:21:43,675 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for ivy.com
+2025-01-20 09:21:43,679 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for ivy.com
+2025-01-20 09:21:43,684 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for ivy.com
+2025-01-20 09:21:43,686 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:22:50,908 ERROR scheduler Skipped queueing helpdesk.search.build_index_if_not_exists because it was found in queue for ivy.com
+2025-01-20 09:22:51,376 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for ivy.com
+2025-01-20 09:22:51,380 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:22:51,406 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for ivy.com
+2025-01-20 09:22:51,409 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for ivy.com
+2025-01-20 09:22:51,413 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for ivy.com
+2025-01-20 09:22:51,417 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:27:44,482 ERROR scheduler Skipped queueing helpdesk.search.build_index_if_not_exists because it was found in queue for ivy.com
+2025-01-20 09:27:44,624 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for ivy.com
+2025-01-20 09:27:44,648 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for ivy.com
+2025-01-20 09:27:44,685 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for ivy.com
+2025-01-20 09:34:39,377 ERROR scheduler Exception in Enqueue Events for Site ivy.com
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 806, in _write_bytes
+    self._sock.sendall(data)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 75, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 117, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 130, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 669, in connect
+    self._request_authentication()
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 956, in _request_authentication
+    self.write_packet(data)
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 732, in write_packet
+    self._write_bytes(data)
+  File "/home/ivy/frappe-bench/env/lib/python3.11/site-packages/pymysql/connections.py", line 809, in _write_bytes
+    raise err.OperationalError(
+pymysql.err.OperationalError: (2006, "MySQL server has gone away (ConnectionResetError(104, 'Connection reset by peer'))")
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
